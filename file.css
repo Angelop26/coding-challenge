@@ -1,0 +1,53 @@
+
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.contenitore{
+  margin: 6%;
+  padding: 6%;
+  background: rgba(16, 16, 16, 0.5);
+}
+
+header{
+  text-align: center;
+}
+
+h1{
+  color:  chartreuse;
+}
+
+.opzioni{
+  padding: 1%;
+  background-color: chartreuse;
+}
+
+h2{
+  display: inline-block;
+  color: white;
+  margin-bottom: 0;
+}
+div div{
+  color: white
+}
+
+hr{
+  margin: 0;
+  border-radius: 5px;
+}
+.carica1{
+    border: 10px solid orange;
+  width: 20%;
+}
+
+.carica2{
+    border: 10px solid green;
+  width: 40%
+}
+
+.carica3{
+    border: 10px solid red;
+  width: 10%
+}
